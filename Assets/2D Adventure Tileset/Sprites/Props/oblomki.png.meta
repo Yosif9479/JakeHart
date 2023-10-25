@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 402770d29f402844cbc0ac458d9550ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table_Right_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72668a3f8d604942a678b00b204fef6
+      internalID: -115372415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_0
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 631
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04829e08234393a45871072b763cea6f
+      internalID: -1291600412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 500
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93435fd872338744787f790dd3a88c31
+      internalID: 2033964676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 620
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48d62ad64b5084296ec8a6346a4992
+      internalID: 1380144144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 504
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914cd8a21b25f74f800abcc9f4d1822
+      internalID: 2138507803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 512
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec286ccf677345345be8564615a30b3e
+      internalID: 1627712224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 368
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a24d134dd9a646b454eaa393569a0
+      internalID: 150301986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 377
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1df25f45d55804b9467e63e46fea20
+      internalID: -600276837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 247
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdcf6d4e2bc31a46b43ac06b0ec5bad
+      internalID: -892922419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 243
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b8d14237f9734cbedb227052f1340
+      internalID: 55119595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblomki_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 247
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa5ff240e2405499e98c7b2dbc6180
+      internalID: 1234436677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Prop_Junk_2: 831887155
+      Spikes_2: 625549649
+      Sign_Base_2: -2028948353
+      Sign_Up_1: -730993413
+      Table_Left_1: -656721757
+      Pole_End_2: -1715128647
+      oblomki_5: 150301986
+      Lamp_Light: 1739052103
+      Spikes_6: -242074126
+      Sign_Down_2: 807571540
+      Crate_5: -1113798650
+      Table_Middle_2: -161323435
+      Crate_1: -1185583393
+      Pole_Base_2: -1409690754
+      Sign_Right_1: 354818569
+      Junk_2: -583394379
+      Crate_2: 1953370399
+      Stalagmites_3: -1114598308
+      Cobweb_1: -185404728
+      oblomki_6: -600276837
+      Pole_Base_1: 2014534996
+      Sign_Left_2: 953993244
+      Pole_Corner_1: 1417125945
+      Sign_Right_2: 559239227
+      Prop_Cobweb_1: -1437198590
+      Cobweb_2: -1788187214
+      Prop_Cobweb_2: -1362271721
+      Sign_Down_1: -1266412112
+      Stalagmites_4: 1168083174
+      Sign_Left_1: -154703569
+      Campfire_Small_Charred: 1999787792
+      Spikes_5: 722352102
+      Cobweb_4: 1157948366
+      Campfire_Small: 1732029201
+      Stalagmites_2: -204446444
+      oblomki_3: 2138507803
+      oblomki_9: 1234436677
+      Spikedball: -1856038618
+      Spikes_4: -1923720474
+      oblomki_2: 1380144144
+      Sign_Up_2: 391938178
+      Crate_4: -1994675129
+      Junk_1: -1954940602
+      oblomki_1: 2033964676
+      Barrel_1: -393010673
+      oblomki_4: 1627712224
+      Pole_Corner_2: -1299481566
+      Lamp: -894151403
+      Table_Left_2: 383868687
+      oblomki_7: -892922419
+      Stool_1: -1186375087
+      Pole_End_1: 456742756
+      oblomki_0: -1291600412
+      Stalagmites_1: 1202118349
+      Spikes_1: -2121048215
+      Box_2: -1720083693
+      Table_Right_2: -115372415
+      Spikes_3: 901257666
+      Cobweb_3: 1374091870
+      oblomki_8: 55119595
+      Sign_Base_1: -616372231
+      Prop_Spikes_4: 941804685
+      Crate_3: 1156164545
+      Stool_2: 499044046
+      Barrel_2: 1503221294
+      Table_Middle_1: 288145240
+      Crate_6: -1736293819
+      Table_Right_1: -1386758505
+      Box_1: -1154104125
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
